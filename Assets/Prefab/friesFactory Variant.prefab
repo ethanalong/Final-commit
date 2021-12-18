@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &799322634
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3374634920317478753}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4bef793e0f26316499c26d8e880d2d66, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!1001 &3576201802196442760
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 457304717238869636, guid: d24cc7f0c41779b43bb57eb83476357c, type: 3}
+      propertyPath: Prefab
+      value: 
+      objectReference: {fileID: 8939557302932397908, guid: 18e806745e8e86b479a9a158397ce7c2, type: 3}
+    - target: {fileID: 941800639160643280, guid: d24cc7f0c41779b43bb57eb83476357c, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 941800639160643280, guid: d24cc7f0c41779b43bb57eb83476357c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 941800639160643280, guid: d24cc7f0c41779b43bb57eb83476357c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 941800639160643280, guid: d24cc7f0c41779b43bb57eb83476357c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 941800639160643280, guid: d24cc7f0c41779b43bb57eb83476357c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 941800639160643280, guid: d24cc7f0c41779b43bb57eb83476357c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 941800639160643280, guid: d24cc7f0c41779b43bb57eb83476357c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 941800639160643280, guid: d24cc7f0c41779b43bb57eb83476357c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 941800639160643280, guid: d24cc7f0c41779b43bb57eb83476357c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 941800639160643280, guid: d24cc7f0c41779b43bb57eb83476357c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 941800639160643280, guid: d24cc7f0c41779b43bb57eb83476357c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2266476111688972777, guid: d24cc7f0c41779b43bb57eb83476357c, type: 3}
+      propertyPath: m_Name
+      value: friesFactory
+      objectReference: {fileID: 0}
+    - target: {fileID: 2266476111688972777, guid: d24cc7f0c41779b43bb57eb83476357c, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 2266476111688972777, guid: d24cc7f0c41779b43bb57eb83476357c, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2266476111688972777, guid: d24cc7f0c41779b43bb57eb83476357c, type: 3}
+      propertyPath: m_TagString
+      value: Factory
+      objectReference: {fileID: 0}
+    - target: {fileID: 3693415516416973643, guid: d24cc7f0c41779b43bb57eb83476357c, type: 3}
+      propertyPath: m_Size.x
+      value: 6.27
+      objectReference: {fileID: 0}
+    - target: {fileID: 3693415516416973643, guid: d24cc7f0c41779b43bb57eb83476357c, type: 3}
+      propertyPath: m_Size.z
+      value: 4.16
+      objectReference: {fileID: 0}
+    - target: {fileID: 3693415516416973643, guid: d24cc7f0c41779b43bb57eb83476357c, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3693415516416973643, guid: d24cc7f0c41779b43bb57eb83476357c, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: d24cc7f0c41779b43bb57eb83476357c, type: 3}
+--- !u!1 &3374634920317478753 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2266476111688972777, guid: d24cc7f0c41779b43bb57eb83476357c, type: 3}
+  m_PrefabInstance: {fileID: 3576201802196442760}
+  m_PrefabAsset: {fileID: 0}
